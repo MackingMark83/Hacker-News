@@ -1,0 +1,31 @@
+/* Individual stories */
+
+.story-link {
+    color: black;
+    font-size: 0.85rem;
+    font-weight: normal;
+    margin: 18px 0;
+  }
+  
+  .story-link:hover {
+    text-decoration: none;
+  }
+  
+  .story-author {
+    margin-left: 2em;
+  }
+  
+  .story-user {
+    display: block;
+  }
+  
+  .trash-can:hover {
+    color: crimson;
+  }
+  
+  .story-link {
+    color: black;
+    font-size: 0.85rem;
+    font-weight: normal;
+    margin: 18px 0;
+  }
